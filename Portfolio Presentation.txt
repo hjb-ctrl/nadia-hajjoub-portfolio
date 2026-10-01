@@ -60,11 +60,11 @@ NADIA  HAJJOUB
 
 
 A PROPOS DE MOI
-Jeune diplomee d'un Master de recherche en sociologie, parcours enquetes socio-anthropologiques et territorialisations, j'ai acquis une solide experience en recherche qualitative et quantitative. Passionnee par les  dynamiques  sociales  et  culturelles, je souhaite
+Jeune diplomée d'un Master de recherche en sociologie, parcours enquêtes socio-anthropologiques et territorialisations, j'ai acquis une solide expérience en recherche qualitative et quantitative. Passionnee par les  dynamiques  sociales  et  culturelles, je souhaite
 mettre mes competences d'analyse et de recherche au service de projets innovants et a impact social.
 
-Chaque etude represente pour moi un terrain d'analyse et un espace d'action. Mon objectif est de contribuer a
-la comprehension des tensions sociales et d'accompagner la construction de solutions durables aux conflits, que ce soit dans le cadre de la recherche, de !'intervention sociale ou de projets collaboratifs.
+Chaque étude représente pour moi un terrain d'analyse et un espace d'action. Mon objectif est de contribuer a
+la comprehension des tensions sociales et d'accompagner la construction de solutions durables aux conflits, que ce soit dans le cadre de la recherche, de l'intervention sociale ou de projets collaboratifs.
 
 
 
@@ -91,7 +91,7 @@ O  FORMATION EN METHODES QUANTITATIVES
 2024- 2025
 Centre National des Arts et Metiers (CNAM)
 
-0	MASTER EN SOCIOLOGIE - ENQUETES SOCIO� ANTHROPOLOGIQUES ET TERRITORIALISATIONS
+0	MASTER EN SOCIOLOGIE - ENQUETES SOCIO­ ANTHROPOLOGIQUES ET TERRITORIALISATIONS
 2022 - 2025
 Universite Marie et Louis Pasteur
 
@@ -113,88 +113,101 @@ Lycee Mohammed Derfoufi
 EXPERIENCES ACADEMIQUES
 
 
+0	Chargée de mission en concertation et analyse territoriale
+EMPREINTES CITOYENNES, Paris
+Octobre 2025 – Mai 2026
+• Réalisation d’un diagnostic territorial dans le cadre d’un projet de réhabilitation de
+logements sociaux en région parisienne
+• Collecte, traitement et analyse de données qualitatives issues de 788 entretiens semi-directifs à domicile et en permanences de proximité avec des observations de terrain
+• Nettoyage, préparation et analyse des données quantitatives recueillies sur le terrain à l’aide du logiciel R
+• Réalisation d’analyses économiques et de benchmarks sectoriels afin d’alimenter la réflexion stratégique et l’aide à la décision.
+• Participation à la concertation avec les habitants et les acteurs locaux dans une logique de politique publique participative
+
+
+
 0	CHARGEE DE PROJETS ASSOCIATIFS
-Association Koulal
-2024 - Actuellement
-� Conception et elaboration de projets a partir de themes proposes
-� Planification et organisation des etapes de mise en ceuvre
-� Mobilisation des benevoles et collaboration avec Les partenaires
-� Communication et valorisation des actions de l'association
-� Suivi et evaluation des resultats des projets
+Association Koulal, Argenteuil
+Octobre 2024 - Septembre 2025
+• Contribution à des projets d’intervention sociale et territoriale en région parisienne
+• Analyse des besoins socio-économiques des publics dans une logique d’aide à la décision et d’adaptation des dispositifs
+• Participation à la conception et au suivi-évaluation d’actions à destination des populations locales
+• Production d’analyses quantitatives et qualitatives à partir de données de terrain
+• Coordination des activités de collecte de données et contrôle de la qualité des informations
+recueillies
+• Appui au montage de dossiers de financement et à la formalisation de documents stratégiques
 
 
 0	STAGE EN ETUDES ET RECHERCHE - PROJET RITM-BFC
 Maison des Sciences de L'Homme et de L'Environnement
 2023 - 2024
-� Conduite d'entretiens et elaboration de questionnaires
-� Traitement et analyse des donnees qualitatives et quantitatives
-� redaction de rapports et syntheses d'etudes
-� Presentation et interpretation des resultats d'enquetes
+• Conduite d'entretiens et elaboration de questionnaires
+• Traitement et analyse des donnees qualitatives et quantitatives
+• redaction de rapports et syntheses d'etudes
+• Presentation et interpretation des resultats d'enquetes
 
 
 0	CHARGE DES RELATIONS PUBLIQUES
 Moroccan Parliamentary Model (MPM)
 2019- 2020
-� Participation a un modele parlementaire marocain inspire du parlementjeunesse du Maroc (PJM)
-� Communication et sensibilisation aupres des invites
-� Prospection et mobilisation des participants
-� Promotion et valorisation de la conference
-� Accueil et gestion d'une diversite d'invites internationaux
+• Participation à la conception méthodologique de la recherche
+• Réalisation et suivi du terrain : conduite d’entretiens individuels (56 entretiens), animation de focus groups (7 groupes) et questionnaires (923 réponses)
+• Observation de terrain et suivi du déroulement de l’enquête
+• Supervision de la collecte des données : coordination du terrain, contrôle qualité et
+respect des protocoles méthodologiques et éthiques.
+• Traitement et analyse des données qualitatives et quantitatives (R, SPSS, NVivo)
+• Production de rapports d’analyse et de recommandations à destination d’acteurs institutionnels
+
 
 EXPERIENCES PARA-ACADEMIQUES
 
 
 0	CREATION DE CONTENU
-Studio lnhaidan
+Studio lnkaidan
 2022 - Actuellement
-� Realisation de contenus visuels (photographie et videos) a visee publicitaire
-� Accompagnement de jeunes entreprises dans leur communication digitale
+• Realisation de contenus visuels (photographie et videos) a visee publicitaire
+• Accompagnement de jeunes entreprises dans leur communication digitale
 
 
 
 0	FONDATRICE D'UN SMALL BUSINESS
 StudentHome
 2022-2024
-� Mise en place d'un service d'accompagnement pour etudiants
-� Negociation avec des fournisseurs et recherche de solutions economiques
+• Mise en place d'un service d'accompagnement pour etudiants
+• Negociation avec des fournisseurs et recherche de solutions economiques
 
 
 
-O  MEMBRE DE CLUB
-Jeune communaute marocaine public-eco (JCMP, UM6P)
-2019-2020
-� Gestion de la communication interne et externe du club
-� Organisation et promotion d'activites universitaires et culturelles du club
 
 COMPETENCES
 
-� Maitrise des logiciels de statistiques (SPSS,R)
+• Maitrise des logiciels de statistiques (SPSS,R)
 
-� Traitement et analyse des donnees quantitatives et qualitatives
-� Gestion de projets et management d'equipe
+• Traitement et analyse des donnees quantitatives et qualitatives
 
-� Gestion des relations publiques
+• Gestion de projets et management d'equipe
 
-� Redaction de rapports et syntheses
+• Gestion des relations publiques
 
-� Veille et recherche documentaire
+• Redaction de rapports et syntheses
+
+• Veille et recherche documentaire
 
 
 
 CENTRES D'INTERETS
 
-� ONG
-� Entreprenariat
-� Benevole
+• ONG
+• Entreprenariat
+• Benevole
 
 
 
 LANGUES
 
-� Arabe
-� Fran<;ais
-� Anglais
-� Japonais
+• Arabe
+• Fran<;ais
+• Anglais
+• Japonais
 
 
 
@@ -230,9 +243,15 @@ PROJETS D'ATELIERS
 
 
 
-Pl2023 - 2024Court metrage - Documentaire
-P2
-2022-2023Memoire et mutations de l'Universite de Marie et Louis Pasteur
+Pl
+2023 - 2024
+Court metrage - Documentaire
+
+P2
+
+2022-2023
+Memoire et mutations de l'Universite de Marie et Louis Pasteur
+
 
 
 
@@ -278,11 +297,23 @@ TUDES
 
 
 
-P32023 - 2025Analyse des pratiques energetiques dans les foyers urbains en France: Le cas de l'electricite
-P42024 - 2025Renovation energetique: vers un logement plus econome et durable
-PS
-2022 - 2023La gestion de l'argent et la prise de decision financiere au sein du couple heterosexuelPG
-2021 - 2022L'impact de conflits d'heritage sur la dynamique de la cohesion familiale
+P3
+2023 - 2025
+Analyse des pratiques energetiques dans les foyers urbains en France: Le cas de l'electricite
+
+P4
+2024 - 2025
+Renovation energetique: vers un logement plus econome et durable
+
+PS
+
+2022 - 2023
+La gestion de l'argent et la prise de decision financiere au sein du couple heterosexuel
+PG
+
+2021 - 2022
+L'impact de conflits d'heritage sur la dynamique de la cohesion familiale
+
 
 
 
@@ -336,8 +367,7 @@ Nous avons egalement integre des sequences decrivant !'atmosphere du centre vill
 
 
 P2
- Memoire et mutations de PUniversite de Marie et Louis
-Pasteur
+ Memoire et mutations de l'Université de Marie et Louis Pasteur
 
 
 L'Universite Bourgogne-Franche-Comte est devenue en 2025 l'Universite Marie et Louis Pasteur afin de renforcer sa visibilite internationale et de mieux coordonner ses etablissements au sein d'une structure unique et moderne. Ce nouveau nom rend hommage
@@ -348,7 +378,7 @@ d'innovation.
 Description
 
 Dans le cadre des 600 ans de l'Universite de Franche-Comte, j'ai assure la coordination du projet "Memoires de la Faculte de Lettresn en tant que cheffe d'equipe. Ce travail a consists a organiser une enquete sociologique autour des formes de mutations et memoire inscrites dans !'institution.
-De ce fait , la realisation d'entretiens et collecte de temoignages aupres de differents acteurs de l'universite a ete la premiere etape de ce projet. A partir des donnees recueillies, la deuxieme etape se concentre sur 1�analyse et interpretation de ces donnees en collaboration avec l'equipe enseignante.
+De ce fait , la realisation d'entretiens et collecte de temoignages aupres de differents acteurs de l'universite a ete la premiere etape de ce projet. A partir des donnees recueillies, la deuxieme etape se concentre sur 1·analyse et interpretation de ces donnees en collaboration avec l'equipe enseignante.
 Finalement, le projet aboutit a la mise en place d'une exposition photographique presentee
 du 14 mai au 28 juin de l'annee 2023, valorisant la diversite des memoires et des parcours qui composent l'histoire de la faculte.
 
@@ -367,7 +397,7 @@ P3
 
 
 
-1�energie n,est pas seulement une question technique ou economique mais egalement un fait social : en ce qui suit on va presenter comment les choix energetiques influencent les modes de vie, les inegalites sociales, les politiques publiques et les representations culturelles.
+1·energie n,est pas seulement une question technique ou economique mais egalement un fait social : en ce qui suit on va presenter comment les choix energetiques influencent les modes de vie, les inegalites sociales, les politiques publiques et les representations culturelles.
 
 
 
@@ -377,10 +407,10 @@ P3
 
 Description
 
-L1objectif de cette etude est d1examiner le comportement des menages urbains en matiere de consommation d'electricite, en mettant 1�accent sur les facteurs socio-economiques qui influencent ce comportement.
-En utilisant une approche qualitative basee sur des entretiens semi-directifs et des observations sur le terrain, 1�etude analyse comment les menages s�adaptent a la hausse des prix  de  1�e1ectricite  et  quelles  sont  les  strategies  qu1ils  utilisent  pour  gerer  leur  bilan
+L1objectif de cette etude est d1examiner le comportement des menages urbains en matiere de consommation d'electricite, en mettant 1·accent sur les facteurs socio-economiques qui influencent ce comportement.
+En utilisant une approche qualitative basee sur des entretiens semi-directifs et des observations sur le terrain, 1·etude analyse comment les menages s·adaptent a la hausse des prix  de  1·e1ectricite  et  quelles  sont  les  strategies  qu1ils  utilisent  pour  gerer  leur  bilan
 energetique.
-J'ai ensuite cherche a comprendre comment la gestion de 1�energie qui est a l1intersection de facteurs materiels, culturels et economiques, et les inegalites socio- economiques influencent fortement la capacite des menages a adopter un comportement durable.
+J'ai ensuite cherche a comprendre comment la gestion de 1·energie qui est a l1intersection de facteurs materiels, culturels et economiques, et les inegalites socio- economiques influencent fortement la capacite des menages a adopter un comportement durable.
 
 
 
@@ -415,7 +445,7 @@ resultats pertinents et solides.
 
 Description
 Ce  travail  analyse  la  renovation  energetique  des  logements  en  France  a partir  des  donnees  de
-1�enquete TREMi 2020.
+1·enquete TREMi 2020.
 Dans le cadre de ce projet, j'ai utilise le logiciel de statistique R pour analyser les donnees et interpreter les resultats de maniere rigoureuse.
 Les principaux travaux mobilises concernent !'isolation, le chauffage, les ouvertures et !'utilisation d'energies renouvelables. Ils sont motives principalement par la reduction des depenses, le confort et la valorisation du patrimoine. Les proprietaires sont les plus impliques et le financement repose sur des aides publiques (ANAH, CITE, CEE) et des prets specifiques, avec des differences selon les revenus.
 Les resultats montrent une baisse de la consommation energetique et une amelioration du confort, confirmant ainsi !'importance strategique de la renovation energetique dans le cadre de la transition ecologique.
@@ -465,10 +495,10 @@ L'impact de conflits d'heritage sur la dynamique de la cohesion familiale
 
 Description
 
-Mon memoire de fin d1etudes porte sur la question de l'heritage au Maroc et sur l1impact des conflits et litiges lies a cette problematique sur la cohesion familiale. Pour aborder ce sujet, j'ai utilise une methodologie  qualitative  basee  principalement sur  des entretiens  semi-directifs menes
+Mon mémoire de fin d'études porte sur la question de l'héritage au Maroc et sur l1impact des conflits et litiges lies a cette problematique sur la cohésion familiale. Pour aborder ce sujet, j'ai utilise une methodologie  qualitative  basee  principalement sur  des entretiens  semi-directifs menes
 aupres d'un echantillon diversifie.
-Ce travail de terrain m'a egalement amenee a effectuer des observations directes en visitant differents tribunaux, en rencontrant des avocats specialises dans les affaires d'heritage ainsi que des familles concernees, y compris celles qui sont encore en situation de conflit.
-L'etude a permis de mettre en lumiere la complexite de cette question dans le contexte marocain, oO les dimensions familiales, religieuses, financieres et de genre s'entrecroisent et influencent fortement la gestion des litiges successoraux et leur impact sur la dynamique de la cohesion familiale.
+Ce travail de terrain m'a également amené a effectuer des observations directes en visitant différents tribunaux, en rencontrant des avocats spécialises dans les affaires d'héritage ainsi que des familles concernées, y compris celles qui sont encore en situation de conflit.
+L'étude a permis de mettre en lumière la complexité de cette question dans le contexte marocain, oO les dimensions familiales, religieuses, financières et de genre s'entrecroisent et influencent fortement la gestion des litiges successoraux et leur impact sur la dynamique de la cohésion familiale.
 
 
 
@@ -488,7 +518,7 @@ heterosexuel
 
 
 
-J,ai decouvert une sociologie du quotidien ou l,intime et l,economique s,entremelent. Ce sujet m,a revele que l,argent n,est pas seulement un moyen d,echange, mais aussi un vecteur de pouvoir, de reconnaissance et d,inegalites.
+J'ai decouvert une sociologie du quotidien ou l'intime et l'économique s'entremelent. Ce sujet m,a revele que l,argent n,est pas seulement un moyen d,echange, mais aussi un vecteur de pouvoir, de reconnaissance et d,inegalites.
 
 
 P5
